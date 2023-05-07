@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/welbex-test-task/static/css/main.1e0c0c01.css",
+    "main.js": "/welbex-test-task/static/js/main.1b7b4cb8.js",
+    "static/media/bg.png": "/welbex-test-task/static/media/bg.a7fdc951e1a724daa980.png",
+    "static/media/Inter-Black.ttf": "/welbex-test-task/static/media/Inter-Black.4687db66d316ec27374b.ttf",
+    "static/media/Inter-Bold.ttf": "/welbex-test-task/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
+    "static/media/Inter-Medium.ttf": "/welbex-test-task/static/media/Inter-Medium.9d1fd4235eeb376c5f96.ttf",
+    "static/media/Inter-Regular.ttf": "/welbex-test-task/static/media/Inter-Regular.b559a93b35af397f4b6f.ttf",
+    "static/media/bg-mobile.png": "/welbex-test-task/static/media/bg-mobile.bbf2114b52467f43640a.png",
+    "static/media/Montserrat-Medium.ttf": "/welbex-test-task/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
+    "static/media/Montserrat-Light.ttf": "/welbex-test-task/static/media/Montserrat-Light.dfb04f69b77b88e22558.ttf",
+    "index.html": "/welbex-test-task/index.html",
+    "main.1e0c0c01.css.map": "/welbex-test-task/static/css/main.1e0c0c01.css.map",
+    "main.1b7b4cb8.js.map": "/welbex-test-task/static/js/main.1b7b4cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0c0c01.css",
+    "static/js/main.1b7b4cb8.js"
+  ]
+}
